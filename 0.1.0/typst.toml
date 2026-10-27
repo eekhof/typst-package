@@ -1,0 +1,7 @@
+[package]
+name = "eekhof"
+version = "0.1.0"
+entrypoint = "eekhof.typ"
+authors = ["Lucas Eekhof"]
+license = ""
+description = "Preferred imports, settings and formats for and by Lucas."
